@@ -1,6 +1,6 @@
-# Getting Started with Create React App and Redux
+# Hello React Front-End App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+>This is a simple hello world application build on React and Redux. The aim is to fetch data from a Rails API that selects a random greeting from your table.
 
 ## Available Scripts
 
@@ -44,3 +44,31 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## Authors
+
+👤 **Edward Odhiambo**
+
+- GitHub: [@whit3d](https://github.com/white3d)
+- Twitter: [@odhiambo_ed](https://twitter.com/odhiambo_ed)
+- LinkedIn: [Edward Odhiambo](https://www.linkedin.com/in/edward-odhiambo-6a462a21b/)
+- Portfolio: [Edward Odhiambo](https://edwardodhiambo.com/)
+
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!!!
+
+Feel free to check the [issues page](https://github.com/white3d/hello-rails-back-end/issues)
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to [Murat Korkmaz on Behance](https://www.behance.net/gallery/26425031/Vespa-Responsive-Redesign/modules/173005577) the original design owner.
+
+## 📝 License
+
+This project is [MIT](./LICENSE) licensed.
