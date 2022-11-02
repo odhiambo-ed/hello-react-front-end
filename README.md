@@ -2,6 +2,8 @@
 
 >This is a simple hello world application build on React and Redux. The aim is to fetch data from a Rails API that selects a random greeting from your table.
 
+See [Back-End](https://github.com/white3d/hello-rails-back-end) Repo
+
 ## Available Scripts
 
 In the project directory, you can run:
