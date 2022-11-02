@@ -1,10 +1,10 @@
-import "./App.css";
-import React from "react";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
-import { Provider } from "react-redux";
-import store from "./app/store";
-import logo from "./logo.svg";
-import Greeting from "./features/greeting/greeting";
+import './App.css';
+import React from 'react';
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { Provider } from 'react-redux';
+import store from './app/store';
+import logo from './logo.svg';
+import Greeting from './features/greeting/greeting';
 
 const App = () => (
   <div className="App">
